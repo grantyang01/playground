@@ -11,7 +11,7 @@ F10:: {
     RunKeySequence(5)
 }
 
-F11:: {AR
+F11:: {
     KeyWait "F11"
     RunKeySequence(20)
 }
