@@ -94,3 +94,4 @@ F11=20
   * Changes to `[Hotkeys]` or `stopHotkey` require pressing `F12` (or right-clicking the green **H** tray icon and choosing **Reload Script**).
 * **Target App Running as Administrator:** If your target program runs with Administrator privileges, right-click `keymacro.ahk` and select **Run as administrator**, or Windows 11 will block simulated keystrokes.
 * **Run Automatically at Startup:** Press `Win + R`, type `shell:startup`, and place a shortcut to `keymacro.ahk` inside the folder that opens.
+* **OCR Setup:** See [setup.md](./setup.md) for Python and screen-capture/OCR setup instructions.
